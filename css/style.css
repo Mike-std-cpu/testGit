@@ -43,3 +43,13 @@ body{
     background: white;
     padding: 1em;
 }
+
+#footer{
+    color: black;
+    text-align: center;
+    margin: 0.5px;
+    font-weight: bold;
+    background-image: radial-gradient(circle at 50% -20.71%, #f3d8e2 0, #f4d7df 5.56%, #f5d7dd 11.11%, #f6d7da 16.67%, #f6d8d7 22.22%, #f6d8d5 27.78%, #f5d8d3 33.33%, #f5d9d1 38.89%, #f3d9cf 44.44%, #f2dacd 50%, #f0dbcc 55.56%, #eedccb 61.11%, #ecdcca 66.67%, #e9ddc9 72.22%, #e7dec9 77.78%, #e4dfc9 83.33%, #e1e0ca 88.89%, #dee1cb 94.44%, #dbe1cc 100%);
+
+
+}
